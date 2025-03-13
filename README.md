@@ -3,7 +3,7 @@ Thanks for stopping by. Here's where I share projects, ideas, and the occasional
 
 👁‍🗨 I'm currently focusing on:
 - 🤖 Generative AI and its use cases
-- 📅 Database managment
+- 📅 Database management
 - 🎨 Graphic design
 
 😎 I also like:
