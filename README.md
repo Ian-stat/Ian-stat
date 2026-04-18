@@ -9,4 +9,4 @@ Thanks for stopping by. Here's where I share projects, ideas, and the occasional
 😎 I also like:
 - 🐧 Free and open source software
 - 🍻 Craft beer
-- 🎶 Obscure music no one cares about
+- 🎶 Music
